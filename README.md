@@ -28,6 +28,8 @@ git clone https://github.com/phoenixdev100/admin-dashboards.git
 cd admin-dashboards
 ```
 
+- You will find many dashboard designs. You can negivate to any dashboard directory. To access dashboard design:
+- First nagivate to any dashboard directory and then follow the steps below
 - Run the index.html file and see the results
 - Open index.html with live server in vscode in case if it doesn't directly run
   <br>
